@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou Fernando 👋
 
-<!--
-**Felfis98/Felfis98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Sou estudante e desenvolvedor em formação, apaixonado por tecnologia, automação e desenvolvimento de software.
 
-Here are some ideas to get you started:
+Atualmente estudo:
+- Java
+- Spring Boot
+- Git e GitHub
+- Banco de Dados
+- APIs REST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias
+- Java
+- MySQL
+- Git
+- GitHub
+- HTML
+- CSS
+
+## 📚 Atualmente aprendendo
+- Desenvolvimento Back-end
+- APIs REST
+- Boas práticas de programação
+
+## 📫 Contato
+- LinkedIn: /in/fernando-garciac
+- Email: fernandogarcia98@hotmail.com
